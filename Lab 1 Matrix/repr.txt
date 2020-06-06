@@ -1,0 +1,8 @@
+Column pointers: 0  1  2  4  7
+
+Row indices: 0   1   0 2   0 2 3
+Data values: a   d   b e   c f g
+
+Compressed sparse column
+
+https://en.wikipedia.org/wiki/Sparse_matrix#Compressed_sparse_column_(CSC_or_CCS)
